@@ -10,3 +10,4 @@ Google site link: https://sites.google.com/diu.edu.bd/freethinkers?fbclid=IwAR3d
 
 Thingspeak Link:https://thingspeak.com/channels/1548483?fbclid=IwAR0esHKssNhWQq03mhIm6EucSFLgN6uNAWcbOtnpnolprhNzzJvXsT3NCp8
 
+Presentation slide link: https://docs.google.com/presentation/d/1DNoZnSBQTDClaN4iyZ1eQVsgUSs-r3Ll/edit?usp=sharing&ouid=118439263563758196301&rtpof=true&sd=true
